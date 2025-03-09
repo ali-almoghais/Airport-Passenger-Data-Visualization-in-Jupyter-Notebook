@@ -1,1 +1,1 @@
-Airport passenger data visualization using Jupyter Notebook with 98,000 rows and 15 columns to uncover meaningful insights.
+Visualize airport passenger data in Jupyter Notebook, analyzing 98,000 rows and 15 columns to extract meaningful insights.
